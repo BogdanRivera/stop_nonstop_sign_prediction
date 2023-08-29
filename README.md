@@ -6,5 +6,5 @@
 
 <h2>🚀 Demo</h2>
 
-[https://classification-app-64e38f3097deb0d64d32a38d.16bdn7zbx7vh.eu-gb.codeengine.appdomain.cloud](https://classification-app-64e38f3097deb0d64d32a38d.16bdn7zbx7vh.eu-gb.codeengine.appdomain.cloud)
+[https://classification-app-64e38f3097deb0d64d32a38d.16bdn7zbx7vh.eu-gb.codeengine.appdomain.cloud](https://classification-app-64e38f3097deb0d64d32a38d.16bdn7zbx7vh.eu-gb.codeengine.appdomain.cloud) (The application may take up to 5 minutes to open).
 
